@@ -60,5 +60,6 @@
         "eslint-config-airbnb-base": "^13.1.0",
         "eslint-plugin-import": "^2.17.3",
         "nodemon": "^1.19.0"
-    }
+    },
+    "homepage": "https://apexof.github.io/quiz-start-page"
 }
